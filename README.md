@@ -1,5 +1,5 @@
 # Once Upon A Book
-a website that provides good quality used books for book lovers who cannot find used book in a good shape.
+A website that provides good quality used books for book lovers who cannot find used book in a good shape.
 
 website interfaces:
 
